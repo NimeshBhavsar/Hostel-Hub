@@ -1,0 +1,10 @@
+.adminHH {
+    margin-left: 20%;
+}
+
+.admindddd {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    font-weight: bold;
+}

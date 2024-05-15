@@ -1,0 +1,33 @@
+.tableHead1 {
+    margin-top: 3%;
+    display:  flex; 
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+}
+
+.tableHead1 .headings {
+    flex: 1;
+}
+
+.studentComments {
+    flex: 2;
+}
+
+.tableHead {
+    display:  flex; 
+    font-size: small;
+    font-weight: 400;
+    color: white;
+}
+
+.tableHead .headings {
+    flex: 1;
+}
+
+.divvvvvvvv {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 20px;
+
+}

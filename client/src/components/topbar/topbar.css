@@ -1,0 +1,27 @@
+.topbarWrapper {
+
+    width: 100%;
+    height: 10vh;
+    background-color: #604d96;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1%;
+}
+
+.topbarTitle {
+    font-size: 40px;
+    margin-left: 3%;
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.profileLogo {
+    height: 80px;
+    width: 80px;
+    /* fontSize: large; */
+    margin-right: 1%;
+    cursor: pointer;
+}

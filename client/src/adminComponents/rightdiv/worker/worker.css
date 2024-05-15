@@ -1,0 +1,73 @@
+.tableHead1 {
+    display:  flex; 
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+}
+
+.tableHead1 .headings {
+    flex: 1;
+}
+
+.tableHead {
+    display:  flex; 
+    font-size: small;
+    font-weight: 400;
+    color: white;
+}
+
+.tableHead .headings {
+    flex: 1;
+}
+
+
+.loginforminput {
+    width: 90%;
+    height: 40px;
+    padding: 2%;
+    padding-left: 5%;
+    /* margin-bottom: 2%; */
+    box-sizing: border-box;
+    border: none;
+    border-radius: 20px;
+    background-color: #e3d7ff;
+    font-size: medium;
+    font-weight: 400;
+    color: #271c4d;
+  }
+
+  .loginforminput:focus {
+    outline: none;
+    box-shadow: 10px 10px 10px #121212;
+    background-color: #beafe0;
+  }
+
+  #submitbutton {
+    background-color: #604d96;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 50%;
+    height: 50px;
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: large;
+    font-weight: 500;
+  }
+
+  #submitbutton:hover {
+    background-color: #544872;
+    box-shadow: 10px 10px 10px #121212;
+
+  }
+
+  #submitbutton:active {
+    transform: scale(0.9);
+    border-radius: 40px;
+    box-shadow: 10px 10px 10px #121212;
+  }
+
+  .wend {
+    margin-bottom: 20px;
+  }

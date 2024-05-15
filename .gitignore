@@ -1,0 +1,26 @@
+# Dependency directories
+/client/node_modules
+/server/node_modules
+
+# Environment variables
+.env
+
+# IDE and editor files
+/.idea
+/.vscode
+*.swp
+*.swo
+
+# Logs
+/logs
+
+# Testing artifacts
+/coverage
+
+# Compiled output
+/lib
+/out
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
